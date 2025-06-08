@@ -23,9 +23,13 @@
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 [🔥 App](https://app.khoj.dev)
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-[💬 Discord](https://discord.gg/BDgyabRM6e)
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 [✍🏽 Blog](https://blog.khoj.dev)
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+[🔗 LinkedIn](https://www.linkedin.com/in/yaseenbepari/)
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+[💼 Portfolio](https://profolio-yaseen.vercel.app/)
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+[🐙 GitHub](https://github.com/YaseenBepari)
 
 </div>
 
@@ -60,13 +64,14 @@
 
 Go to https://app.khoj.dev to see Khoj live.
 
-## Full feature list
-You can see the full feature list [here](https://docs.khoj.dev/category/features).
-
-## Self-Host
-
-To get started with self-hosting Khoj, [read the docs](https://docs.khoj.dev/get-started/setup).
-
 ## Enterprise
 
 Khoj is available as a cloud service, on-premises, or as a hybrid solution. To learn more about Khoj Enterprise, [visit our website](https://khoj.dev/teams).
+
+***
+
+## 📬 Contact Me
+
+- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/YaseenBepari)  
+- 🌐 Check out my portfolio: [profolio-yaseen.vercel.app](https://profolio-yaseen.vercel.app)  
+- 📫 How to reach me: **yaseenbepari2002@gmail.com**
